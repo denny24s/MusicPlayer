@@ -73,6 +73,18 @@ files:
   - name: build.gradle
     visible: true
     learner_created: false
-feedback_link: https://hyperskill.org/projects/289/stages/1506/implement#comment
-status: Unchecked
+  - name: src/main/java/org/hyperskill/musicplayer/MainPlayerControllerFragment.kt
+    visible: true
+    learner_created: true
+  - name: src/main/res/layout/fragment_main_player_controller.xml
+    visible: true
+    learner_created: true
+  - name: src/main/res/menu/main_menu.xml
+    visible: true
+    learner_created: true
+feedback_link: https://hyperskill.org/learn/step/22739#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Tue, 22 Oct 2024 13:56:52 UTC"
 record: -1
