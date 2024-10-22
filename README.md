@@ -1,4 +1,4 @@
-# **Work on project. Stage 1/5:Simple player layout**
+# **Work on project. Stage 1/5: Simple player layout**
 
 ## **Simple player layout**
 
